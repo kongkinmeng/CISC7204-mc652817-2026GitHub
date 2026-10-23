@@ -1,0 +1,5 @@
+﻿.ipynb_checkpoints/
+.vscode/
+
+# Large data files exceeding GitHub 100MB limit
+cisc7204-Assgn02-2026-mc652817/Module 03/Police_Department_Incident_Reports__Historical_2003_to_May_2018_20261022.csv
